@@ -11,7 +11,7 @@ imitate sina cloud SaeKV class
 
 ### Github badge
 
-[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-0.1K.png)](../../)
+[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-0.1K.png)](https://packagist.org/packages/yakeing/php_saekv)
 [![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](src/SaeKV.php)
 [![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v6.png)](../../releases)
 [![license](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/license-MPL-2.0.png)](LICENSE)
