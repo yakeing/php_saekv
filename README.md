@@ -11,12 +11,11 @@ imitate sina cloud SaeKV class
 
 ### Github badge
 
-[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-0.1K.png)](https://packagist.org/packages/yakeing/php_saekv)
-[![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](https://github.com/yakeing/php_saekv/blob/master/src/SaeKV.php)
-[![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v6.png
-)](https://github.com/yakeing/php_saekv/releases)
-[![license](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/license-MPL-2.0.png)](https://github.com/yakeing/php_saekv/blob/master/LICENSE)
-[![languages](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/languages-php.png)](https://github.com/yakeing/php_saekv/search?l=php)
+[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-0.1K.png)](../../)
+[![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](src/SaeKV.php)
+[![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v6.png)](../../releases)
+[![license](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/license-MPL-2.0.png)](LICENSE)
+[![languages](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/languages-php.png)](../../search?l=php)
 
 ### Installation
 
