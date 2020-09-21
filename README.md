@@ -11,11 +11,11 @@ imitate sina cloud SaeKV class
 
 ### Github badge
 
-[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-0.1K.png)](https://packagist.org/packages/yakeing/php_saekv)
-[![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](src/SaeKV.php)
-[![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v6.png)](../../releases)
-[![license](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/license-MPL-2.0.png)](LICENSE)
-[![languages](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/languages-php.png)](../../search?l=php)
+[![Downloads](https://img.shields.io/github/downloads/yakeing/php_saekv/total?color=dfb317&logo=github)](../../)
+[![Size](https://img.shields.io/github/size/yakeing/php_saekv/src/SaeKV.php?color=b36d41&logo=github)](src/SaeKV.php)
+[![tag](https://img.shields.io/github/v/tag/yakeing/php_saekv?color=28a745&logo=github)](../../releases)
+[![license](https://img.shields.io/github/license/yakeing/php_saekv?color=FE7D37&logo=github)](LICENSE)
+[![languages](https://img.shields.io/badge/languages-php-007EC6?logo=github)](../../search?l=php)
 
 ### Installation
 
@@ -141,7 +141,7 @@ Documents: [SaeKV-code](http://apidoc.sinaapp.com/class-SaeKV.html)
 ---
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
-[![Sponsor](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/Sponsor.png)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
+[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=google%20fit&logoColor=FFFFFF)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
 
 Author
 ---
