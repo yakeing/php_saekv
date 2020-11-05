@@ -1,5 +1,5 @@
 # SaeKV
-imitate sina cloud SaeKV class
+imitate sina cloud SaeKV class.
 
 ### Travis CI
 
