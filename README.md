@@ -12,7 +12,7 @@ imitate sina cloud SaeKV class.
 ### Github badge
 
 [![Downloads](https://badging.now.sh/github/downloads/yakeing/php_saekv?logo=github)](../../)
-[![Size](https://badging.now.sh/github/size/yakeing/php_saekv?logo=github)](src/SaeKV.php)
+[![Size](https://badging.now.sh/github/size/yakeing/php_saekv?logo=github)](src)
 [![tag](https://badging.now.sh/github/tag/yakeing/php_saekv?logo=github)](../../releases)
 [![license](https://badging.now.sh/github/license/yakeing/php_saekv?logo=github)](LICENSE)
 [![languages](https://badging.now.sh/github/language/yakeing/php_saekv?logo=github)](../../search?l=php)
