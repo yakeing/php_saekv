@@ -3,7 +3,7 @@ imitate sina cloud SaeKV class.
 
 ### Travis CI
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/php_saekv.svg?branch=master)](https://travis-ci.com/yakeing/php_saekv)
+[![Travis-ci](https://api.travis-ci.com/yakeing/php_saekv.svg?branch=main)](https://travis-ci.com/yakeing/php_saekv)
 
 ### codecov
 
