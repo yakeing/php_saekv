@@ -7,7 +7,7 @@ imitate sina cloud SaeKV class.
 
 ### codecov
 
-[![codecov](https://codecov.io/gh/yakeing/php_saekv/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/php_saekv)
+[![codecov](https://codecov.io/gh/yakeing/php_saekv/branch/main/graph/badge.svg)](https://codecov.io/gh/yakeing/php_saekv)
 
 ### Github badge
 
